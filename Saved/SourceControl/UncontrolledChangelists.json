@@ -1,0 +1,30 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/18454/OneDrive/Documents/Unreal Projects/LevelDesign/Content/LearningKit_Games/Blueprints/PlayerCharacter/BP_LearningKit_PlayerCharacter.uasset",
+				"C:/Users/18454/OneDrive/Documents/Unreal Projects/LevelDesign/Content/LearningKit_Games/Maps/LearningKit_Games_Showcase.umap",
+				"C:/Users/18454/OneDrive/Documents/Unreal Projects/LevelDesign/Content/LearningKit_Games/Assets/Environment/Clouds/SM_Cloud_D.uasset",
+				"C:/Users/18454/OneDrive/Documents/Unreal Projects/LevelDesign/Content/BlockGame/Maps/BlockGameMap.umap",
+				"C:/Users/18454/OneDrive/Documents/Unreal Projects/LevelDesign/Content/LearningKit_Games/Blueprints/Pickups/Collectable_Pickup_BP.uasset",
+				"C:/Users/18454/OneDrive/Documents/Unreal Projects/LevelDesign/Content/LearningKit_Games/Blueprints/BaseClasses/Master_Pickup_BP.uasset",
+				"C:/Users/18454/OneDrive/Documents/Unreal Projects/LevelDesign/Content/LearningKit_Games/UI/GameRestartUI.uasset",
+				"C:/Users/18454/OneDrive/Documents/Unreal Projects/LevelDesign/Content/LearningKit_Games/UI/PlayerUI.uasset",
+				"C:/Users/18454/OneDrive/Documents/Unreal Projects/LevelDesign/Content/LearningKit_Games/Blueprints/Pickups/PowerUp_Pickup_BP_Child.uasset",
+				"C:/Users/18454/OneDrive/Documents/Unreal Projects/LevelDesign/Content/LearningKit_Games/Blueprints/PlayerCharacter/BP_Pursuer.uasset",
+				"C:/Users/18454/OneDrive/Documents/Unreal Projects/LevelDesign/Content/LearningKit_Games/Blueprints/PlayerCharacter/Pursuer_AIController.uasset",
+				"C:/Users/18454/OneDrive/Documents/Unreal Projects/LevelDesign/Content/LearningKit_Games/Blueprints/PlayerCharacter/EAIState.uasset",
+				"C:/Users/18454/OneDrive/Documents/Unreal Projects/LevelDesign/Content/LearningKit_Games/Blueprints/PlayerCharacter/BP_Roamer.uasset",
+				"C:/Users/18454/OneDrive/Documents/Unreal Projects/LevelDesign/Content/LearningKit_Games/Blueprints/PlayerCharacter/BP_Pursuer1.uasset",
+				"C:/Users/18454/OneDrive/Documents/Unreal Projects/LevelDesign/Content/LearningKit_Games/Blueprints/PlayerCharacter/KillZVolume_Blueprint.uasset",
+				"C:/Users/18454/OneDrive/Documents/Unreal Projects/LevelDesign/Content/LearningKit_Robots/Blueprints/WorldBuilding/BP_Ball_Football.uasset",
+				"C:/Users/18454/OneDrive/Documents/Unreal Projects/LevelDesign/Content/LearningKit_Games/Blueprints/Interactables/PlayerButton_BP.uasset",
+				"C:/Users/18454/OneDrive/Documents/Unreal Projects/LevelDesign/Content/LearningKit_Games/UI/HealthUI.uasset",
+				"C:/Users/18454/OneDrive/Documents/Unreal Projects/LevelDesign/Content/Maps/Level1.umap"
+			]
+		}
+	]
+}
